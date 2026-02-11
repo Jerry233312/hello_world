@@ -1,0 +1,20 @@
+# RAG-based Medical Simulation Game Backend
+
+This file describes the directory structure for the backend of a RAG-based medical simulation game.
+
+## Directory Structure
+
+```
+hello_world/
+├── .env.example
+├── diagnostic_evaluator.py
+├── config.py
+├── conversation_engine.py
+├── main.py
+├── medical_record_manager.py
+├── patient_ai.py
+├── requirements.txt
+├── project_structure.txt
+├── README.md
+└── trigger_mechanism.py
+```
